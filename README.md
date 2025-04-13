@@ -26,7 +26,7 @@ A deep learning-based fabric classification system that can identify and classif
 1. Clone this repository:
 
 ```bash
-git clone [your-repository-url]
+git clone git@github.com:sinarck/tessera.git
 cd tessera
 ```
 
@@ -81,3 +81,4 @@ The project uses a custom neural network architecture based on PyTorch, with the
 - Fully connected layers for classification
 - Support for transfer learning
 - Custom data augmentation
+
